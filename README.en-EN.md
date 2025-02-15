@@ -15,7 +15,7 @@
 ************
 <br>
 
-## **Martyrs Camp Management** <img width="20" src="media/tent.png" alt="logo">
+## <img width="20" src="media/tent.png" alt="logo"> **Martyrs Camp Management** 
 
 **Introduction:**
 The "Martyrs Camp" program was established in response to the evolving circumstances following the war in the Gaza Strip. It arose from the suffering experienced by the Palestinian people during this period of conflict. The primary aim of the program is to manage camps and register displaced families in the Gaza Strip, encompassing several key sections.
