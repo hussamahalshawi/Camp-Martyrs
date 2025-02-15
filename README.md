@@ -83,15 +83,14 @@
 ***********
 
 ## 📐 How it Works
-<video width="3000" height="460" controls autoplay>
-  <source src="media/addfp.mp4" type="video/mp4">
-  المتصفح الخاص بك لا يدعم تشغيل الفيديو.
-</video>
+<h1 style="text-align: center;">
+  <a href="media/addfp.mp4">🎥 مشاهدة الفيديو</a>
+</h1>
 
 ************
 ## 💻 Image
 
-**************
+
 <p align="center">
 <img src="media/home.png" width="3000px" >
 </p>
@@ -107,53 +106,3 @@
 <p align="center">
 <img src="media/deletee.png" width="3000px" >
 </p>
-
-
-
-
-[//]: # ()
-[//]: # (************)
-
-[//]: # (<p align="center">)
-
-[//]: # (<iframe width="560" height="315" src="media/addfp.mkv" frameborder="0" allowfullscreen></iframe>)
-
-[//]: # ()
-[//]: # (</p>)
-
-[//]: # ()
-[//]: # (***************)
-
-[//]: # ()
-[//]: # ([sss]&#40;media/addfp.mkv&#41;)
-
-[//]: # ()
-[//]: # ()
-[//]: # (**************)
-
-[//]: # ()
-[//]: # (<video width="640" height="360" controls autoplay>)
-
-[//]: # (  <source src="media/addfp.mp4" type="video/mp4">)
-
-[//]: # (  المتصفح الخاص بك لا يدعم تشغيل الفيديو.)
-
-[//]: # (</video>)
-
-[//]: # ()
-[//]: # ()
-[//]: # (**********)
-
-[//]: # ()
-[//]: # (<video width="640" height="360" controls>)
-
-[//]: # (  <source src="./media/addfp.mkv" type="video/mkv">)
-
-[//]: # (  المتصفح الخاص بك لا يدعم تشغيل الفيديو.)
-
-[//]: # (</video>)
-
-[//]: # ()
-[//]: # ()
-[//]: # ()
-[//]: # (*************)
