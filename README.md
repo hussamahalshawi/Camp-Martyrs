@@ -83,9 +83,9 @@
 ***********
 
 ## 📐 How it Works
-<h1 style="text-align: center;">
+<p align="center">
   <a href="media/addfp.mp4">🎥 مشاهدة الفيديو</a>
-</h1>
+</p>
 
 ************
 ## 💻 Image

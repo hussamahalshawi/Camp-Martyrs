@@ -5,9 +5,7 @@
 <br>
 <br>
 
-<p align="center">
-<img src="media/home.png" width="3000px" >
-</p>
+
 
 ## Translations
 - ## [عربي](CampMartyrs.md)
@@ -54,8 +52,28 @@ The program is developed using Python programming concepts and includes:
 Future enhancements may include linking the program to a website and incorporating application programming interfaces (APIs) for communication with institutions and associations. Additionally, a table could be added to the database to document information about families that have received food parcels.
 
 Overall, this program aims to enhance camp management and streamline operations related to displaced families in the Gaza Strip.
+
 ## 📐 How it Works
-<video width="3000" height="460" controls autoplay>
-  <source src="media/addfp.mp4" type="video/mp4">
-  المتصفح الخاص بك لا يدعم تشغيل الفيديو.
-</video>
+<p align="center">
+  <a href="media/addfp.mp4">🎥 مشاهدة الفيديو</a>
+</p>
+
+************
+## 💻 Image
+
+
+<p align="center">
+<img src="media/home.png" width="3000px" >
+</p>
+<p align="center">
+<img src="media/searche.png" width="3000px" >
+</p>
+<p align="center">
+<img src="media/adde.png" width="3000px" >
+</p>
+<p align="center">
+<img src="media/edte.png" width="3000px" >
+</p>
+<p align="center">
+<img src="media/deletee.png" width="3000px" >
+</p>
