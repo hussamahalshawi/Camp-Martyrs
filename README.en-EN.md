@@ -55,7 +55,7 @@ Overall, this program aims to enhance camp management and streamline operations 
 
 ## 📐 How it Works
 <p align="center">
-  <a href="media/addfp.mp4">🎥 مشاهدة الفيديو</a>
+  <a href="media/addfp.mp4">🎥 Video</a>
 </p>
 
 ************
